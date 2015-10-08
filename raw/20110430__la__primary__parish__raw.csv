@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:58:33.729000,la-2011-04-30-special-primary,2011-04-30 00:00:00,2011-04-30 00:00:00,primary,certified,True,State House,47,"""Bob"" Hensgens",,,,,R,,Vermilion,ocd-division/country:us/state:la/parish:vermilion,2814,,,,,2011
+2015-10-07 22:58:33.729000,la-2011-04-30-special-primary,2011-04-30 00:00:00,2011-04-30 00:00:00,primary,certified,True,State House,47,Linda Hardee,,,,,R,,Vermilion,ocd-division/country:us/state:la/parish:vermilion,2863,,,,,2011
+2015-10-07 22:58:33.729000,la-2011-04-30-special-primary,2011-04-30 00:00:00,2011-04-30 00:00:00,primary,certified,True,State House,47,"""Bob"" Hensgens",,,,,R,,Cameron,ocd-division/country:us/state:la/parish:cameron,663,,,,,2011
+2015-10-07 22:58:33.729000,la-2011-04-30-special-primary,2011-04-30 00:00:00,2011-04-30 00:00:00,primary,certified,True,State House,47,Linda Hardee,,,,,R,,Cameron,ocd-division/country:us/state:la/parish:cameron,302,,,,,2011

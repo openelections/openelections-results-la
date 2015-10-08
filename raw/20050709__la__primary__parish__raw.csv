@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:44:16.181000,la-2005-07-09-special-primary,2005-07-09 00:00:00,2005-07-09 00:00:00,primary,certified,True,State House,87,Terrell Harris,,,,,D,,Jefferson,ocd-division/country:us/state:la/parish:jefferson,1804,,,,,2005
+2015-10-07 22:44:16.181000,la-2005-07-09-special-primary,2005-07-09 00:00:00,2005-07-09 00:00:00,primary,certified,True,State House,87,Donald R. Jones,,,,,D,,Jefferson,ocd-division/country:us/state:la/parish:jefferson,786,,,,,2005
+2015-10-07 22:44:16.181000,la-2005-07-09-special-primary,2005-07-09 00:00:00,2005-07-09 00:00:00,primary,certified,True,State House,87,Dianne LePree-Williams,,,,,D,,Jefferson,ocd-division/country:us/state:la/parish:jefferson,95,,,,,2005
+2015-10-07 22:44:16.181000,la-2005-07-09-special-primary,2005-07-09 00:00:00,2005-07-09 00:00:00,primary,certified,True,State House,87,Ben Muhammad,,,,,D,,Jefferson,ocd-division/country:us/state:la/parish:jefferson,19,,,,,2005

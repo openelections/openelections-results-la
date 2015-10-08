@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:41:44.264000,la-2004-12-04-special-primary,2004-12-04 00:00:00,2004-12-04 00:00:00,primary,certified,True,State Senate,4,Clayton J. Joffrion,,,,,O,,Orleans,ocd-division/country:us/state:la/parish:orleans,623,,,,,2004
+2015-10-07 22:41:44.264000,la-2004-12-04-special-primary,2004-12-04 00:00:00,2004-12-04 00:00:00,primary,certified,True,State Senate,4,"Edwin R. ""Ed"" Murray",,,,,D,,Orleans,ocd-division/country:us/state:la/parish:orleans,6177,,,,,2004
+2015-10-07 22:41:44.264000,la-2004-12-04-special-primary,2004-12-04 00:00:00,2004-12-04 00:00:00,primary,certified,True,State Senate,4,Adam D. Wilson,,,,,O,,Orleans,ocd-division/country:us/state:la/parish:orleans,384,,,,,2004

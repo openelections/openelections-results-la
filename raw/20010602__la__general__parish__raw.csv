@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:37:19.532000,la-2001-06-02-special-general,2001-06-02 00:00:00,2001-06-02 00:00:00,general,certified,True,State House,53,Damon J. Baldone,,,,,D,,Lafourche,ocd-division/country:us/state:la/parish:lafourche,119,,,,,2001
+2015-10-07 22:37:19.532000,la-2001-06-02-special-general,2001-06-02 00:00:00,2001-06-02 00:00:00,general,certified,True,State House,53,"""Johnny"" Glover",,,,,D,,Lafourche,ocd-division/country:us/state:la/parish:lafourche,19,,,,,2001
+2015-10-07 22:37:19.532000,la-2001-06-02-special-general,2001-06-02 00:00:00,2001-06-02 00:00:00,general,certified,True,State House,53,Damon J. Baldone,,,,,D,,Terrebonne,ocd-division/country:us/state:la/parish:terrebonne,3129,,,,,2001
+2015-10-07 22:37:19.532000,la-2001-06-02-special-general,2001-06-02 00:00:00,2001-06-02 00:00:00,general,certified,True,State House,53,"""Johnny"" Glover",,,,,D,,Terrebonne,ocd-division/country:us/state:la/parish:terrebonne,3119,,,,,2001

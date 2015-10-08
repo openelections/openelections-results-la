@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:37:17.176000,la-2001-08-18-special-general,2001-08-18 00:00:00,2001-08-18 00:00:00,general,certified,True,State House,69,Gary Beard,,,,,R,,East Baton Rouge,ocd-division/country:us/state:la/parish:east_baton_rouge,4093,,,,,2001
+2015-10-07 22:37:17.176000,la-2001-08-18-special-general,2001-08-18 00:00:00,2001-08-18 00:00:00,general,certified,True,State House,69,David Boneno,,,,,R,,East Baton Rouge,ocd-division/country:us/state:la/parish:east_baton_rouge,2847,,,,,2001
+2015-10-07 22:37:17.176000,la-2001-08-18-special-general,2001-08-18 00:00:00,2001-08-18 00:00:00,general,certified,True,State House,69,Gary Beard,,,,,R,,Livingston,ocd-division/country:us/state:la/parish:livingston,642,,,,,2001
+2015-10-07 22:37:17.176000,la-2001-08-18-special-general,2001-08-18 00:00:00,2001-08-18 00:00:00,general,certified,True,State House,69,David Boneno,,,,,R,,Livingston,ocd-division/country:us/state:la/parish:livingston,328,,,,,2001

@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:49:10.947000,la-2008-12-06-special-primary,2008-12-06 00:00:00,2008-12-06 00:00:00,primary,certified,True,State Senate,3,"""J.P."" Morrell",,,,,D,,Orleans,ocd-division/country:us/state:la/parish:orleans,3830,,,,,2008
+2015-10-07 22:49:10.947000,la-2008-12-06-special-primary,2008-12-06 00:00:00,2008-12-06 00:00:00,primary,certified,True,State Senate,3,Shawn Barney,,,,,D,,Orleans,ocd-division/country:us/state:la/parish:orleans,2966,,,,,2008
+2015-10-07 22:49:10.947000,la-2008-12-06-special-primary,2008-12-06 00:00:00,2008-12-06 00:00:00,primary,certified,True,State Senate,3,"""J.P."" Morrell",,,,,D,,Jefferson,ocd-division/country:us/state:la/parish:jefferson,1647,,,,,2008
+2015-10-07 22:49:10.947000,la-2008-12-06-special-primary,2008-12-06 00:00:00,2008-12-06 00:00:00,primary,certified,True,State Senate,3,Shawn Barney,,,,,D,,Jefferson,ocd-division/country:us/state:la/parish:jefferson,1592,,,,,2008

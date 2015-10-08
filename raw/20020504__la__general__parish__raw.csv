@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:38:32.934000,la-2002-05-04-special-general,2002-05-04 00:00:00,2002-05-04 00:00:00,general,certified,True,State House,91,Jalila Jefferson,,,,,D,,Orleans,ocd-division/country:us/state:la/parish:orleans,2291,,,,,2002
+2015-10-07 22:38:32.934000,la-2002-05-04-special-general,2002-05-04 00:00:00,2002-05-04 00:00:00,general,certified,True,State House,91,Rosalind Magee Peychaud,,,,,D,,Orleans,ocd-division/country:us/state:la/parish:orleans,2401,,,,,2002

@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:58:41.351000,la-2011-04-02-special-primary,2011-04-02 00:00:00,2011-04-02 00:00:00,primary,certified,True,State House,46,Craig Prosper,,,,,R,,St. Martin,ocd-division/country:us/state:la/parish:st._martin,3144,,,,,2011
+2015-10-07 22:58:41.351000,la-2011-04-02-special-primary,2011-04-02 00:00:00,2011-04-02 00:00:00,primary,certified,True,State House,46,"""Mike Pete"" Huval",,,,,R,,St. Martin,ocd-division/country:us/state:la/parish:st._martin,4338,,,,,2011

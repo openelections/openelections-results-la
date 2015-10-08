@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-07 22:53:16.094000,la-2009-04-04-special-general,2009-04-04 00:00:00,2009-04-04 00:00:00,general,certified,True,State Senate,16,Lee Domingue,,,,,R,,East Baton Rouge,ocd-division/country:us/state:la/parish:east_baton_rouge,6114,,,,,2009
+2015-10-07 22:53:16.094000,la-2009-04-04-special-general,2009-04-04 00:00:00,2009-04-04 00:00:00,general,certified,True,State Senate,16,"""Dan"" Claitor",,,,,R,,East Baton Rouge,ocd-division/country:us/state:la/parish:east_baton_rouge,11713,,,,,2009
